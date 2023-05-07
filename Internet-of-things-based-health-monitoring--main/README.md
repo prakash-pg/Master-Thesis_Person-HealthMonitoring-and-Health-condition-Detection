@@ -9,4 +9,6 @@ send SMS notifications to doctors in emergency situations using IFTTT. The colle
 using various machine learning algorithms to detect any abnormalities in the person's health condition,
 enabling accurate and timely interventions.
 
+created website ->  https://masterthes-837d7.web.app/
+
 
