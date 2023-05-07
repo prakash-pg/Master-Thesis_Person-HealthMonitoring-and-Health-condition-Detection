@@ -1,4 +1,4 @@
-# Person-health-monitoring_using IoT and_Health-condition-detection using ML
+# Person-real time health-monitoring_using IoT and_Health-condition-detection using ML
 
 
 This Project involves developing an Internet of Things based health monitoring system that utilizes
