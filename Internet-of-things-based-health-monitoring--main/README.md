@@ -1,4 +1,5 @@
-# Internet-of-things-based-health-monitoring-
+# Person-health-monitoring_using IoT and_Health-condition-detection using ML
+
 
 This Project involves developing an Internet of Things based health monitoring system that utilizes
 various sensors to monitor the real-time health of patients. The system measures vital signs such as
